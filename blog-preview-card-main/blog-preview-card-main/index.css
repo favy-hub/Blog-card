@@ -1,0 +1,72 @@
+body{
+    background: #F4D04E;
+    width: 100%;
+}
+
+.container{
+    margin: 50px auto;
+    background: #FFFFFF;
+    width: 90%;
+    max-width: 350px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 8px 8px 0px 0px #000000;
+}
+
+.container img{
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    padding: 20px 20px;
+    border-radius: 15px;
+}
+
+.learn{
+    margin-top: 1px;
+    margin-left: 16px;
+    padding: 5px 10px;
+    background: #F4D04E;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.publish{
+    margin-left: 16px;
+    font-size: 16px;
+    font-family: "Figtree", sans-serif;
+}
+
+h1{
+    font-family:"Figtree", sans-serif;
+    margin-left: 16px;
+    font-size: 25px;
+}
+h1:hover{
+    color: #F4D04E;
+    cursor: pointer;
+}
+.write-up{
+    margin-left: 16px;
+    margin-right: 16px;
+    line-height: 25px;
+    font-family: "Figtree", sans-serif;
+}
+.card-owner{
+    display: flex;
+    align-items: center;
+}
+.card-owner img{
+    width: 40px;
+    height: 40px;
+}
+.card-owner p{
+    font-weight: bold;
+    margin: 0;
+    font-family: "Figtree", sans-serif;
+    font-size: 16px;
+}
+.attribution{
+    margin-top: 10px;
+    text-align: center;
+}
+
